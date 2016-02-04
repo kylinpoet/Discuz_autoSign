@@ -3,6 +3,7 @@
 
 ''' DiscuzRobot - Discuz!论坛的机器人程序，实现了登录，签到，发贴及回帖等功能
 by Conanca
+Modified by kylinpoet at 2016年2月4日 16:31:04
 '''
 
 import urllib2, urllib, cookielib, re, time
