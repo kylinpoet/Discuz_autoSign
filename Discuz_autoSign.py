@@ -118,7 +118,7 @@ class DiscuzRobot:
             print 'speak faild!'
 
 if __name__ == '__main__':
-    robot = DiscuzRobot('http://www.kindle10000.com', 'kylinpoet', 'f1daaedde510254d51eb56a11aeee21c')
+    robot = DiscuzRobot('http://www.kindle10000.com', 'yourname', 'passwordhash')
     robot.login()
     robot.sign()
     #robot.speak()
